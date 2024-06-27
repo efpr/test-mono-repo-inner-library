@@ -1,3 +1,3 @@
-module github.com/efpr/test-mono-repo-inner-library/library
+module library
 
 go 1.22
