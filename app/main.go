@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"myLib/math"
+	"github.com/efpr/test-mono-repo-inner-library/library/math"
 )
 
 func main() {
