@@ -1,4 +1,4 @@
-module app
+module github.com/efpr/test-mono-repo-inner-library/app
 
 go 1.22
 
